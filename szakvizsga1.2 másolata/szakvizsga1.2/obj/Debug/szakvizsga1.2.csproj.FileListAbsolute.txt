@@ -1,0 +1,12 @@
+c:\users\felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\bin\Debug\szakvizsga1.2.exe.config
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1.2.csprojResolveAssemblyReference.cache
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1._2.Form2.resources
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1._2.kezdolap.resources
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1._2.Properties.Resources.resources
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1.2.csproj.GenerateResource.Cache
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\bin\Debug\szakvizsga1.2.exe
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\bin\Debug\szakvizsga1.2.pdb
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1.2.exe
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1.2.pdb
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1._2.termekek.resources
+C:\Users\Felhasználó\documents\visual studio 2015\Projects\szakvizsga1.2\szakvizsga1.2\bin\Debug\DGV Printer.dll
